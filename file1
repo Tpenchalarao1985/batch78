@@ -1,0 +1,7 @@
+touch file name creaat a fiel
+git status   check details
+git add    file adding work space 
+git staatus
+git commit -m " sample file" 
+git log 
+git push
