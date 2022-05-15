@@ -1,5 +1,0 @@
-rm -rf file name    delated file 
-git status
-git add
-git commit -m " delated file"
-git push
